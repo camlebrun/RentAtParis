@@ -4,7 +4,7 @@ import plotly.express as px
 
 st.write("Hello World")
 data_paris = pd.read_csv(
-    "/Users/camille/repo/projet_perso/loyer/app/data/logement-encadrement-des-loyers.csv",
+    "/app/data/logement-encadrement-des-loyers.csv",
     sep=";",
 )
 data_paris_2022 = data_paris[data_paris["Année"] == 2022]

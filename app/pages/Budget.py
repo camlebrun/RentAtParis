@@ -51,14 +51,13 @@ with resultat:
         )
 
     df_filtered = df_filtered.loc[conditions]
-    df_filtered.to_csv("data/loyer_budget.csv", index=False)
     loyer_map = df_filtered[["Nom du quartier", "loyer_budget"]]
     quartier = list(loyer_map["Nom du quartier"].unique())
     quartier_str = ", ".join(quartier)
     st.write("Quartiers:", quartier_str)
 
     df = gpd.read_file(
-        "/Users/camille/repo/projet_perso/loyer/app/data/quartier_paris.geojson"
+        "app/data/quartier_paris.geojson"
     )
     df.rename(columns={"l_qu": "Nom du quartier"}, inplace=True)
     df_l_qu = df[["Nom du quartier", "geometry"]]

@@ -27,7 +27,7 @@ class SelectData:
 
     def with_maps(self):
         df = gpd.read_file(
-            "/Users/camille/repo/projet_perso/loyer/app/data/quartier_paris.geojson"
+            "app/data/quartier_paris.geojson"
         )
         df_l_qu = df[["l_qu", "geometry"]]
 
@@ -50,7 +50,7 @@ class SelectData:
 class map(SelectData):
     def color_map(self):
         df = gpd.read_file(
-            "/Users/camille/repo/projet_perso/loyer/data/quartier_paris.geojson"
+            "app/data/quartier_paris.geojson"
         )
         df_l_qu = df[["l_qu", "geometry"]]
 
