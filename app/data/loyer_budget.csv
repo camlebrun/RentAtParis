@@ -1,0 +1,99 @@
+Année,Secteurs géographiques,Numéro du quartier,Nom du quartier,Nombre de pièces principales,Epoque de construction,Type de location,Loyers de référence,Loyers de référence majorés,Loyers de référence minorés,loyer_budget
+2022,9,70,Clignancourt,1,Apres 1990,non meublé,23.4,28.08,16.38,561.5999999999999
+2022,9,46,Picpus,1,Apres 1990,non meublé,23.4,28.08,16.38,561.5999999999999
+2022,13,50,Gare,1,1946-1970,non meublé,24.4,29.28,17.08,585.6
+2022,14,47,Bercy,1,Apres 1990,non meublé,25.6,30.72,17.92,614.4
+2022,11,43,Roquette,1,1971-1990,non meublé,26.4,31.68,18.48,633.6
+2022,13,78,Saint-Fargeau,1,1946-1970,non meublé,24.4,29.28,17.08,585.6
+2022,14,47,Bercy,1,1971-1990,non meublé,23.8,28.56,16.66,571.1999999999999
+2022,12,56,Plaisance,1,1946-1970,non meublé,24.5,29.4,17.15,588.0
+2022,9,69,Grandes-Carrières,1,1946-1970,non meublé,26.1,31.32,18.27,626.4
+2022,13,80,Charonne,1,Apres 1990,non meublé,23.4,28.08,16.38,561.5999999999999
+2022,11,71,Goutte-d'Or,1,Apres 1990,non meublé,24.4,29.28,17.08,585.6
+2022,11,54,Parc-de-Montsouris,1,Apres 1990,non meublé,24.4,29.28,17.08,585.6
+2022,11,48,Quinze-Vingts,1,1971-1990,non meublé,26.4,31.68,18.48,633.6
+2022,11,40,Hôpital-Saint-Louis,1,1971-1990,non meublé,26.4,31.68,18.48,633.6
+2022,9,70,Clignancourt,1,1946-1970,non meublé,26.1,31.32,18.27,626.4
+2022,9,46,Picpus,1,1946-1970,non meublé,26.1,31.32,18.27,626.4
+2022,14,47,Bercy,1,1946-1970,non meublé,24.2,29.04,16.94,580.8
+2022,13,80,Charonne,1,Avant 1946,non meublé,26.7,32.04,18.69,640.8
+2022,13,75,Amérique,1,1971-1990,non meublé,21.3,25.56,14.91,511.2
+2022,11,48,Quinze-Vingts,1,1946-1970,non meublé,25.1,30.12,17.57,602.4
+2022,13,75,Amérique,1,Apres 1990,non meublé,23.4,28.08,16.38,561.5999999999999
+2022,13,73,Villette,1,1971-1990,non meublé,21.3,25.56,14.91,511.2
+2022,14,79,Père-Lachaise,1,1946-1970,non meublé,24.2,29.04,16.94,580.8
+2022,13,74,Pont-de-Flandre,1,1971-1990,non meublé,21.3,25.56,14.91,511.2
+2022,14,47,Bercy,1,Avant 1946,non meublé,25.0,30.0,17.5,600.0
+2022,10,49,Salpêtrière,1,1946-1970,non meublé,25.2,30.24,17.64,604.8
+2022,7,59,Grenelle,1,1946-1970,non meublé,26.0,31.2,18.2,624.0
+2022,11,68,Epinettes,1,Apres 1990,non meublé,24.4,29.28,17.08,585.6
+2022,13,78,Saint-Fargeau,1,Avant 1946,non meublé,26.7,32.04,18.69,640.8
+2022,11,54,Parc-de-Montsouris,1,1946-1970,non meublé,25.1,30.12,17.57,602.4
+2022,14,45,Bel-Air,1,Avant 1946,non meublé,25.0,30.0,17.5,600.0
+2022,13,74,Pont-de-Flandre,1,Avant 1946,non meublé,26.7,32.04,18.69,640.8
+2022,7,61,Auteuil,1,1971-1990,non meublé,26.9,32.28,18.83,645.6
+2022,12,51,Maison-Blanche,1,1946-1970,non meublé,24.5,29.4,17.15,588.0
+2022,13,73,Villette,1,1946-1970,non meublé,24.4,29.28,17.08,585.6
+2022,14,79,Père-Lachaise,1,Avant 1946,non meublé,25.0,30.0,17.5,600.0
+2022,9,69,Grandes-Carrières,1,Apres 1990,non meublé,23.4,28.08,16.38,561.5999999999999
+2022,7,59,Grenelle,1,1971-1990,non meublé,26.9,32.28,18.83,645.6
+2022,10,18,Jardin-des-Plantes,1,1946-1970,non meublé,25.2,30.24,17.64,604.8
+2022,7,60,Javel 15Art,1,1971-1990,non meublé,26.9,32.28,18.83,645.6
+2022,11,41,Folie-Méricourt,1,1946-1970,non meublé,25.1,30.12,17.57,602.4
+2022,13,75,Amérique,1,Avant 1946,non meublé,26.7,32.04,18.69,640.8
+2022,11,77,Belleville,1,1946-1970,non meublé,25.1,30.12,17.57,602.4
+2022,13,73,Villette,1,Avant 1946,non meublé,26.7,32.04,18.69,640.8
+2022,13,74,Pont-de-Flandre,1,1946-1970,non meublé,24.4,29.28,17.08,585.6
+2022,13,72,La Chapelle,1,1971-1990,non meublé,21.3,25.56,14.91,511.2
+2022,11,71,Goutte-d'Or,1,1971-1990,non meublé,26.4,31.68,18.48,633.6
+2022,14,45,Bel-Air,1,Apres 1990,non meublé,25.6,30.72,17.92,614.4
+2022,14,45,Bel-Air,1,1946-1970,non meublé,24.2,29.04,16.94,580.8
+2022,9,70,Clignancourt,1,1971-1990,non meublé,24.5,29.4,17.15,588.0
+2022,14,79,Père-Lachaise,1,1971-1990,non meublé,23.8,28.56,16.66,571.1999999999999
+2022,13,73,Villette,1,Apres 1990,non meublé,23.4,28.08,16.38,561.5999999999999
+2022,12,56,Plaisance,1,1971-1990,non meublé,26.2,31.44,18.34,628.8000000000001
+2022,11,40,Hôpital-Saint-Louis,1,1946-1970,non meublé,25.1,30.12,17.57,602.4
+2022,11,68,Epinettes,1,1946-1970,non meublé,25.1,30.12,17.57,602.4
+2022,10,42,Saint-Ambroise,1,1946-1970,non meublé,25.2,30.24,17.64,604.8
+2022,13,50,Gare,1,Avant 1946,non meublé,26.7,32.04,18.69,640.8
+2022,7,61,Auteuil,1,1946-1970,non meublé,26.0,31.2,18.2,624.0
+2022,13,80,Charonne,1,1946-1970,non meublé,24.4,29.28,17.08,585.6
+2022,13,75,Amérique,1,1946-1970,non meublé,24.4,29.28,17.08,585.6
+2022,10,67,Batignolles,1,1946-1970,non meublé,25.2,30.24,17.64,604.8
+2022,11,39,Porte-Saint-Martin,1,1971-1990,non meublé,26.4,31.68,18.48,633.6
+2022,13,50,Gare,1,1971-1990,non meublé,21.3,25.56,14.91,511.2
+2022,13,74,Pont-de-Flandre,1,Apres 1990,non meublé,23.4,28.08,16.38,561.5999999999999
+2022,11,77,Belleville,1,1971-1990,non meublé,26.4,31.68,18.48,633.6
+2022,10,44,Sainte-Marguerite,1,1946-1970,non meublé,25.2,30.24,17.64,604.8
+2022,11,77,Belleville,1,Apres 1990,non meublé,24.4,29.28,17.08,585.6
+2022,14,45,Bel-Air,1,1971-1990,non meublé,23.8,28.56,16.66,571.1999999999999
+2022,8,57,Saint-Lambert,1,1971-1990,non meublé,25.0,30.0,17.5,600.0
+2022,13,80,Charonne,1,1971-1990,non meublé,21.3,25.56,14.91,511.2
+2022,10,55,Petit-Montrouge,1,1946-1970,non meublé,25.2,30.24,17.64,604.8
+2022,14,76,Combat,1,1971-1990,non meublé,23.8,28.56,16.66,571.1999999999999
+2022,11,48,Quinze-Vingts,1,Apres 1990,non meublé,24.4,29.28,17.08,585.6
+2022,8,57,Saint-Lambert,1,1946-1970,non meublé,25.4,30.48,17.78,609.6
+2022,11,43,Roquette,1,1946-1970,non meublé,25.1,30.12,17.57,602.4
+2022,7,60,Javel 15Art,1,1946-1970,non meublé,26.0,31.2,18.2,624.0
+2022,11,39,Porte-Saint-Martin,1,Apres 1990,non meublé,24.4,29.28,17.08,585.6
+2022,11,41,Folie-Méricourt,1,1971-1990,non meublé,26.4,31.68,18.48,633.6
+2022,14,76,Combat,1,Avant 1946,non meublé,25.0,30.0,17.5,600.0
+2022,11,39,Porte-Saint-Martin,1,1946-1970,non meublé,25.1,30.12,17.57,602.4
+2022,13,72,La Chapelle,1,Apres 1990,non meublé,23.4,28.08,16.38,561.5999999999999
+2022,13,50,Gare,1,Apres 1990,non meublé,23.4,28.08,16.38,561.5999999999999
+2022,12,51,Maison-Blanche,1,1971-1990,non meublé,26.2,31.44,18.34,628.8000000000001
+2022,9,69,Grandes-Carrières,1,1971-1990,non meublé,24.5,29.4,17.15,588.0
+2022,14,76,Combat,1,1946-1970,non meublé,24.2,29.04,16.94,580.8
+2022,13,72,La Chapelle,1,1946-1970,non meublé,24.4,29.28,17.08,585.6
+2022,13,72,La Chapelle,1,Avant 1946,non meublé,26.7,32.04,18.69,640.8
+2022,11,43,Roquette,1,Apres 1990,non meublé,24.4,29.28,17.08,585.6
+2022,11,41,Folie-Méricourt,1,Apres 1990,non meublé,24.4,29.28,17.08,585.6
+2022,11,54,Parc-de-Montsouris,1,1971-1990,non meublé,26.4,31.68,18.48,633.6
+2022,14,76,Combat,1,Apres 1990,non meublé,25.6,30.72,17.92,614.4
+2022,9,46,Picpus,1,1971-1990,non meublé,24.5,29.4,17.15,588.0
+2022,11,40,Hôpital-Saint-Louis,1,Apres 1990,non meublé,24.4,29.28,17.08,585.6
+2022,13,78,Saint-Fargeau,1,1971-1990,non meublé,21.3,25.56,14.91,511.2
+2022,14,79,Père-Lachaise,1,Apres 1990,non meublé,25.6,30.72,17.92,614.4
+2022,11,68,Epinettes,1,1971-1990,non meublé,26.4,31.68,18.48,633.6
+2022,11,71,Goutte-d'Or,1,1946-1970,non meublé,25.1,30.12,17.57,602.4
+2022,13,78,Saint-Fargeau,1,Apres 1990,non meublé,23.4,28.08,16.38,561.5999999999999
